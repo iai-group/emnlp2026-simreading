@@ -1,4 +1,4 @@
-# IAI Paper Release Template
+# "Act Like a 5th Grader" is Not Enough: Bounding Knowledge in LLM-Based User Simulators
 
 This repository **will provide** resources developed within the following article:
 
