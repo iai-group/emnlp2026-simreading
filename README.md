@@ -19,7 +19,7 @@ If you use the resources presented in this repository, please cite:
 ```
 @inproceedings{Balog:2026:EMNLP,
   author =    {Balog, Krisztian and Bakken, Arild Michel},
-  title =     {"Act Like a 5th Grader" is Not Enough: Bounding Knowledge in {LLM}-Based User Simulators},
+  title =     {``Act Like a 5th Grader'' is Not Enough: Bounding Knowledge in {LLM}-Based User Simulators},
   booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},
   publisher = {Association for Computational Linguistics},
   year =      {2026}
