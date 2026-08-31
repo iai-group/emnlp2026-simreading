@@ -2,11 +2,11 @@
 
 This repository **will provide** resources developed within the following article:
 
-> A. Smith, B. Smith and C. Smith. **Paper title in Camelcase.** In: Proceedings or Journal details (series). Publisher. City, Country. Month 2018. [DOI: XX.XXXX/XXXXXXX.XXXXXXX](link to full DOI URL: http://*/XX.XXXX/XXXXXXX.XXXXXXX)
+> Krisztian Balog and Arild Michel Bakken. **"Act Like a 5th Grader" is Not Enough: Bounding Knowledge in LLM-Based User Simulators.** In: Findings of the Association for Computational Linguistics: EMNLP 2026. Association for Computational Linguistics. 2026.
 
 ## Summary
 
-*Here goes the summary of the work (the paper abstract is often a good starting point, but it can be extended/customized).*
+Large language models (LLMs) are increasingly used to simulate human behavior but frequently fail to exhibit realistic cognitive constraints, suffering from a "superhuman bias." Using a dataset of over 71,000 reading comprehension responses from 2,359 primary-school students (grades 4–6), we demonstrate that standard persona prompting yields near-perfect, deterministic performance, failing to capture the natural variance of developing readers. To address this, we introduce the Cognitively Bounded User Simulator (CBUS), an architectural framework that explicitly models the restricted working memory of young readers through an episodic bottleneck. Within this framework, we formalize two distinct test-taking strategies to emulate different reading behaviors. Our evaluation shows that explicitly modeling cognitive bounds significantly narrows the simulation gap across multiple LLM backbones, demonstrating that enforcing architectural constraints is more effective for high-fidelity simulation than simply scaling raw model capabilities.
 
 ## Contents
 
@@ -17,15 +17,12 @@ COMING SOON
 If you use the resources presented in this repository, please cite:
 
 ```
-@inproceedings{Lastname:YYYY:ABC,
-  author =    {...},
-  title =     {...},
-  booktitle = {Full proceedings title},
-  series =    {...},
-  year =      {...},
-  pages =     {...--...},
-  doi =       {XX.XXXX/XXXXXXX.XXXXXXX},
-  publisher = {ACM or Springer, usually; choose your faith}
+@inproceedings{Balog:2026:EMNLP,
+  author =    {Balog, Krisztian and Bakken, Arild Michel},
+  title =     {"Act Like a 5th Grader" is Not Enough: Bounding Knowledge in {LLM}-Based User Simulators},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},
+  publisher = {Association for Computational Linguistics},
+  year =      {2026}
 }
 ```
 
