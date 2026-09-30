@@ -1,8 +1,8 @@
 # "Act Like a 5th Grader" is Not Enough: Bounding Knowledge in LLM-Based User Simulators
 
-This repository **will provide** resources developed within the following article:
+This repository provides the resources developed within the following article:
 
-> Krisztian Balog and Arild Michel Bakken. **"Act Like a 5th Grader" is Not Enough: Bounding Knowledge in LLM-Based User Simulators.** In: Findings of the Association for Computational Linguistics: EMNLP 2026. Association for Computational Linguistics. 2026.
+> Krisztian Balog and Arild Michel Bakken. **"Act Like a 5th Grader" is Not Enough: Bounding Knowledge in LLM-Based User Simulators.** In: Findings of the Association for Computational Linguistics: EMNLP 2026. Association for Computational Linguistics. 2026. [[PDF](https://arxiv.org/pdf/2608.30033)]
 
 ## Summary
 
