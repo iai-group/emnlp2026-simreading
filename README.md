@@ -87,8 +87,7 @@ and are available only from the shipped precomputed aggregates. Simulators:
 
 The reading texts and questions are third-party copyrighted material,
 redistributed here for research reproducibility. Student responses are released
-only in aggregated form (no individual-level data). **License: to be finalized
-before publication** — see the paper and `RELEASE_PLAN.md`.
+only in aggregated form (no individual-level data). **License: CC-BY-4.0.**
 
 ## Citation
 
