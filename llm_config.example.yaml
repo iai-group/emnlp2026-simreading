@@ -1,0 +1,19 @@
+# LLM provider configuration for simreading.
+
+# Default provider used when none is specified at runtime.
+default_provider: ollama
+
+providers:
+  ollama:
+    api_base: "http://localhost:11434"
+    api_key: ""  # leave blank for local Ollama without auth
+    default_model: "llama3.3:70b"
+
+  openrouter:
+    api_key: ""  # your OpenRouter API key
+    default_model: "google/gemini-3-flash-preview"
+
+# Generation parameters shared across all providers.
+generation:
+  temperature: 1.4  # corresponds to 0.7 on a 0-1 scale
+  max_tokens: 4000
