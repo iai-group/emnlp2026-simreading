@@ -93,7 +93,7 @@ data). Licensing is **not** uniform across the repository:
     Krisztian Balog. See [`LICENSE`](LICENSE).
   * **Questions, categories, and human-response aggregates**
     (`data/questions.json` minus the texts, `data/question_categories.csv`,
-    `data/aggregates/human/`): CC BY-NC-ND 4.0, © Nasjonalt lesesenter (Norwegian Reading Centre).
+    `data/aggregates/human/`): CC BY-NC-ND 4.0, © Nasjonalt lesesenter (The Norwegian Reading Centre), University of Stavanger.
   * **Reading texts** embedded in `data/questions.json`: third-party
     copyrighted material, each individually licensed (CC BY-NC-ND 4.0 or
     CC BY-SA 3.0) by its own rights holder — see

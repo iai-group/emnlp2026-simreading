@@ -26,14 +26,8 @@ license, and a link to the license deed — is listed in
 
 Two licenses are used across the texts:
 
-- [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — Attribution-NonCommercial-NoDerivatives
-- [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) — Attribution-ShareAlike
-
-**Coverage.** `text_licenses.md` currently covers 154 of the 156 texts in
-`data/questions.json`. Attribution for the remaining 2 texts
-(`HT_14` / "Vulkaner" and `HT_161` / "Teknisk museum") is not yet
-available and will be added once confirmed; until then, treat those two
-texts as unlicensed for redistribution purposes.
+  - [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — Attribution-NonCommercial-NoDerivatives
+  - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) — Attribution-ShareAlike
 
 ## Precomputed simulation aggregates
 
