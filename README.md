@@ -85,9 +85,22 @@ and are available only from the shipped precomputed aggregates. Simulators:
 
 ## Data availability and license
 
-The reading texts and questions are third-party copyrighted material,
-redistributed here for research reproducibility. Student responses are released
-only in aggregated form (no individual-level data). **License: CC-BY-4.0.**
+Student responses are released only in aggregated form (no individual-level
+data). Licensing is **not** uniform across the repository:
+
+  * **Code** (`simreading/`, `scripts/`, configs) and the **precomputed
+    simulation aggregates** (`data/aggregates/simulation/`): CC BY 4.0, ©
+    Krisztian Balog. See [`LICENSE`](LICENSE).
+  * **Questions, categories, and human-response aggregates**
+    (`data/questions.json` minus the texts, `data/question_categories.csv`,
+    `data/aggregates/human/`): CC BY-NC-ND 4.0, © Nasjonalt lesesenter (Norwegian Reading Centre).
+  * **Reading texts** embedded in `data/questions.json`: third-party
+    copyrighted material, each individually licensed (CC BY-NC-ND 4.0 or
+    CC BY-SA 3.0) by its own rights holder — see
+    [`data/text_licenses.md`](data/text_licenses.md) for per-text
+    attribution.
+
+Full details: [`data/LICENSE.md`](data/LICENSE.md).
 
 ## Citation
 
